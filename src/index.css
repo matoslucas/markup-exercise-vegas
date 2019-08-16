@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'icons';
+  src: url('/assets/fonts/icons.eot');
+  src: url('/assets/fonts/icons.eot') format('embedded-opentype'),
+  url('/assets/fonts/icons.ttf') format('truetype'),
+  url('/assets/fonts/icons.woff') format('woff'),
+  url('/assets/fonts/icons.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  }
+
+body{
+  font-family: 'icons', sans-serif;
+  color: '#6b717d';
+}
